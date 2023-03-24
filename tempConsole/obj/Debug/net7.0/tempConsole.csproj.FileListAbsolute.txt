@@ -1,0 +1,15 @@
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\bin\Debug\net7.0\tempConsole.exe
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\bin\Debug\net7.0\tempConsole.deps.json
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\bin\Debug\net7.0\tempConsole.runtimeconfig.json
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\bin\Debug\net7.0\tempConsole.dll
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\bin\Debug\net7.0\tempConsole.pdb
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.csproj.AssemblyReference.cache
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.AssemblyInfoInputs.cache
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.AssemblyInfo.cs
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.csproj.CoreCompileInputs.cache
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.dll
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\refint\tempConsole.dll
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.pdb
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\tempConsole.genruntimeconfig.cache
+C:\Users\BS1027\source\repos\tempConsole\tempConsole\obj\Debug\net7.0\ref\tempConsole.dll

@@ -1,0 +1,15 @@
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\bin\Debug\net7.0\DependancyInjectionPrac.exe
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\bin\Debug\net7.0\DependancyInjectionPrac.deps.json
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\bin\Debug\net7.0\DependancyInjectionPrac.runtimeconfig.json
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\bin\Debug\net7.0\DependancyInjectionPrac.dll
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\bin\Debug\net7.0\DependancyInjectionPrac.pdb
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.csproj.AssemblyReference.cache
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.AssemblyInfoInputs.cache
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.AssemblyInfo.cs
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.csproj.CoreCompileInputs.cache
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.dll
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\refint\DependancyInjectionPrac.dll
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.pdb
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\DependancyInjectionPrac.genruntimeconfig.cache
+C:\Users\BS1027\source\repos\tempConsole\DependancyInjection\obj\Debug\net7.0\ref\DependancyInjectionPrac.dll
